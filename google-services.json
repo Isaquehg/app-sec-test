@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047144557902",
+    "project_id": "app-sec-cba6d",
+    "storage_bucket": "app-sec-cba6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047144557902:android:09a5d5bb3dd3f97e51421f",
+        "android_client_info": {
+          "package_name": "com.appsec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047144557902-vn7kh36pdj66s4bs04vr1gfoq8k9e0ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5CByFvG7FO0tkIXXxoRiP4eMJLWUpdto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047144557902-vn7kh36pdj66s4bs04vr1gfoq8k9e0ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
